@@ -24,7 +24,7 @@ List<Source> _animeworldindiaSourcesList =
     _languages
         .map(
           (e) => Source(
-            name: 'AnimeWorld India',
+            name: 'AnimeWorld India - Chirag',
             baseUrl: "https://watchanimeworld.in",
             lang: e,
             typeSource: "multiple",
