@@ -9,7 +9,7 @@ Source _taurusfansubSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/es/taurusfansub/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/es/taurusfansub/icon.png",
   dateFormat: "dd/MM/yyy",
   dateFormatLocale: "es",
 );

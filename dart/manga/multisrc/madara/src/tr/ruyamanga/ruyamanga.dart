@@ -8,7 +8,7 @@ Source _ruyamangaSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/tr/ruyamanga/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/tr/ruyamanga/icon.png",
   dateFormat: "dd/MM/yyyy",
   dateFormatLocale: "en",
 );

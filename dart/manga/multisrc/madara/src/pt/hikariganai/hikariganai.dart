@@ -8,7 +8,7 @@ Source _hikariganaiSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/pt/hikariganai/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/pt/hikariganai/icon.png",
   dateFormat: "d 'de' MMMM 'de' yyyy",
   dateFormatLocale: "pt-br",
 );

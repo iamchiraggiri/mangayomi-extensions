@@ -9,7 +9,7 @@ Source _pojokmangaSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/id/pojokmanga/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/id/pojokmanga/icon.png",
   dateFormat: "MMM dd, yyyy",
   dateFormatLocale: "en_us",
 );

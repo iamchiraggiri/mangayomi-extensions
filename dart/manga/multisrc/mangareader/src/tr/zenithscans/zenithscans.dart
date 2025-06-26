@@ -8,7 +8,7 @@ Source _zenithscansSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/tr/zenithscans/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/tr/zenithscans/icon.png",
   dateFormat: "MMM d, yyy",
   dateFormatLocale: "tr",
 );

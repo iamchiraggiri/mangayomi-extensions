@@ -8,7 +8,7 @@ Source _merlinscansSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/tr/merlinscans/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/tr/merlinscans/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "tr",
 );

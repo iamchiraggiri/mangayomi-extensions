@@ -9,7 +9,7 @@ Source _samuraiscanSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/es/samuraiscan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/es/samuraiscan/icon.png",
   dateFormat: "MMMM d, yyyy",
   dateFormatLocale: "es",
 );

@@ -8,7 +8,7 @@ Source _lunarscanSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/pt/lunarscan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/pt/lunarscan/icon.png",
   dateFormat: "MMMMM dd, yyyy",
   dateFormatLocale: "pt-br",
 );

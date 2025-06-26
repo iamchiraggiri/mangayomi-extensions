@@ -8,7 +8,7 @@ Source _shirakamiSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/id/shirakami/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/id/shirakami/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "id",
 );

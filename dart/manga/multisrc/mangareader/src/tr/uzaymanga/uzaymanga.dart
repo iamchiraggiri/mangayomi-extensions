@@ -8,7 +8,7 @@ Source _uzaymangaSource = Source(
   lang: "tr",
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/tr/uzaymanga/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/tr/uzaymanga/icon.png",
   dateFormat: "MMM d, yyyy",
   dateFormatLocale: "tr",
 );

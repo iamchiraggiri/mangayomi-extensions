@@ -8,7 +8,7 @@ Source _hwagoSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/id/hwago/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/id/hwago/icon.png",
   dateFormat: "d MMMM yyyy",
   dateFormatLocale: "en",
 );

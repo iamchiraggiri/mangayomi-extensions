@@ -8,7 +8,7 @@ Source _ravenscansSource = Source(
   lang: "en",
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/en/ravenscans/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/en/ravenscans/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "en_us",
 );

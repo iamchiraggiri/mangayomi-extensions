@@ -8,7 +8,7 @@ Source _athenamangaSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/tr/athenamanga/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/tr/athenamanga/icon.png",
   dateFormat: "MMMM d, yyy",
   dateFormatLocale: "tr",
 );

@@ -9,7 +9,7 @@ Source _barmangaSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/es/barmanga/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/es/barmanga/icon.png",
   dateFormat: "MM/dd/yyyy",
   dateFormatLocale: "es",
 );

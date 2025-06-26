@@ -8,7 +8,7 @@ Source _turktoonSource = Source(
   lang: "tr",
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/tr/turktoon/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/tr/turktoon/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "en_us",
 );

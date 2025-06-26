@@ -9,7 +9,7 @@ Source _freemangatopSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/en/freemangatop/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/en/freemangatop/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "en_us",
 );

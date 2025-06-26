@@ -8,7 +8,7 @@ Source _mangaseeSource = Source(
   lang: "en",
   typeSource: "nepnep",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/nepnep/src/en/mangasee/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/nepnep/src/en/mangasee/icon.png",
   dateFormat: "yyyy-MM-dd HH:mm:ss",
   dateFormatLocale: "en",
 );

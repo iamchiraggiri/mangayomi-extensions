@@ -8,7 +8,7 @@ Source _sushiscanSource = Source(
   lang: "fr",
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/fr/sushiscan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/fr/sushiscan/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "fr",
 );

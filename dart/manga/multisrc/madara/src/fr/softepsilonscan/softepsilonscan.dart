@@ -8,7 +8,7 @@ Source _softepsilonscanSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/fr/softepsilonscan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/fr/softepsilonscan/icon.png",
   dateFormat: "dd/MM/yy",
   dateFormatLocale: "fr",
 );

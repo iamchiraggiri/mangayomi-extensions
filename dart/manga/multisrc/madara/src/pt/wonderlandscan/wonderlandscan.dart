@@ -9,7 +9,7 @@ Source _wonderlandscanSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/pt/wonderlandscan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/pt/wonderlandscan/icon.png",
   dateFormat: "dd/MM/yyyy",
   dateFormatLocale: "pt-br",
 );

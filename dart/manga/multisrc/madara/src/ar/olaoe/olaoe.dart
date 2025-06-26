@@ -8,7 +8,7 @@ Source _olaoeSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/ar/olaoe/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/ar/olaoe/icon.png",
   dateFormat: "MMMM dd, yyyy",
   dateFormatLocale: "ar",
 );

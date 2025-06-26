@@ -9,7 +9,7 @@ Source _mangafreakonlineSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/en/mangafreakonline/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/en/mangafreakonline/icon.png",
   dateFormat: "d MMMM، yyy",
   dateFormatLocale: "en_us",
 );

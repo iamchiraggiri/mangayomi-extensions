@@ -9,7 +9,7 @@ Source _mangananquimSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/pt/mangananquim/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/pt/mangananquim/icon.png",
   dateFormat: "dd 'de' MMMMM 'de' yyyy",
   dateFormatLocale: "pt-br",
 );

@@ -9,7 +9,7 @@ Source _cocoripSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/es/cocorip/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/es/cocorip/icon.png",
   dateFormat: "dd/MM/yyyy",
   dateFormatLocale: "es",
 );

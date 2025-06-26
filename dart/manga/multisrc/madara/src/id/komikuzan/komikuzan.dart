@@ -8,7 +8,7 @@ Source _komikuzanSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/id/komikuzan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/main/dart/manga/multisrc/madara/src/id/komikuzan/icon.png",
   dateFormat: "MMMM d, yyyy",
   dateFormatLocale: "id",
 );

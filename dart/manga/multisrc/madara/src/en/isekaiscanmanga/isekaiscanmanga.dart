@@ -9,7 +9,7 @@ Source _isekaiscanmangaSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/en/isekaiscanmanga/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/en/isekaiscanmanga/icon.png",
   dateFormat: "dd MMM، yyyy",
   dateFormatLocale: "en_us",
 );

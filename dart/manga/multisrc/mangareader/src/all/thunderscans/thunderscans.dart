@@ -8,7 +8,7 @@ Source _thunderscansSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/all/thunderscans/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/all/thunderscans/icon.png",
   dateFormat: "MMM d, yyy",
   dateFormatLocale: "ar",
 );

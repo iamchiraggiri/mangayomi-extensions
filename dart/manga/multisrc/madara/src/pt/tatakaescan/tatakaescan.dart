@@ -9,7 +9,7 @@ Source _tatakaescanSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/pt/tatakaescan/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/pt/tatakaescan/icon.png",
   dateFormat: "dd 'de' MMMMM 'de' yyyy",
   dateFormatLocale: "pt-br",
 );

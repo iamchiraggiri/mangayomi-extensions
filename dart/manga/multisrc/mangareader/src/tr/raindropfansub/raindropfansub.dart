@@ -8,7 +8,7 @@ Source _raindropfansubSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/tr/raindropfansub/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/tr/raindropfansub/icon.png",
   dateFormat: "MMMM d, yyyy",
   dateFormatLocale: "tr",
 );

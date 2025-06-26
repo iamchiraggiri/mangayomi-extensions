@@ -8,7 +8,7 @@ Source _rizzcomicSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/en/rizzcomic/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/mangareader/src/en/rizzcomic/icon.png",
   dateFormat: "dd MMM yyyy",
   dateFormatLocale: "en",
 );

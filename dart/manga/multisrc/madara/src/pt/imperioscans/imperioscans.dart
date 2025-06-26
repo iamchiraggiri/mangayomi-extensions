@@ -9,7 +9,7 @@ Source _imperioscansSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/pt/imperioscans/icon.png",
+      "https://raw.githubusercontent.com/iamchiraggiri/mangayomi-extensions/refs/heads/$branchName/dart/manga/multisrc/madara/src/pt/imperioscans/icon.png",
   dateFormat: "dd/MM/yyyy",
   dateFormatLocale: "pt-br",
 );
